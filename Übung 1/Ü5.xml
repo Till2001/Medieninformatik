@@ -1,0 +1,14 @@
+<zoo>
+    <tiere  anzahl="33">
+        <giraffen käfig="33">
+            <giralökjhasdflkjashdfffe name=" linda" alter="34"/> 
+            <Giraffe name=" paul" alter=" 42"/>
+        </giraffen>
+        <affen käfig=" 137">
+            <affe id="1" name=" krull" alter=" 6"/>
+            <Affe id="2" name=" krull" alter=" 6"/>
+            <affe name=" 345" altersschwach=" 16"/>
+        </affen>
+    </tiere>
+    <hund name="anton"/>
+</zoo>

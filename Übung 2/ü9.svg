@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" version="1.1">
+    <circle cx="200" cy="150" r="20" stroke="black" stroke-width="3" fill="gray" />
+    <polyline points="190,165 200,132 210,165 182,145 218,145 190,165" stroke="white" fill="none"/>
+    <circle cx="50" cy="150" r="20" stroke="black" stroke-width="3" fill="gray" />
+    <polyline points="40,165 50,132 60,165 32,145 68,145 40,165" stroke="white" fill="none"/>
+    <polygon fill="white" points="20,150 20,100 70,100 120,80 200,80 230,140 220,130 180,130 170,150 80,150 75,130 30,130" stroke="black" stroke-width="3"/>
+    <ellipse cx="140" cy="120" rx="10" ry="3" fill="white" stroke="black" stroke-width="1"/>
+    <polygon points="70,100 120,80 120,100" fill="gray" stroke="black" stroke-width="2"/>
+    <polygon points="150,85 150,100 170,100 170,85" fill="gray" stroke="black" stroke-width="2"/>
+    <polyline stroke-dasharray="5,5" points="150,88 170,88 170,90 150,90 150,92 170,92 170,94 150,94 150,96 170,96" fill="none" stroke="black" stroke-width="1"/>
+</svg>
+

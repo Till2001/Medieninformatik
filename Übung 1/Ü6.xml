@@ -1,0 +1,18 @@
+<Kooperationen>
+    <Kooperation>
+        <Firma name="A" adresse="Straße A" umsatz="5" geschäftsbereich="Tomaten" ID="1"/>
+        <Firma name="B" adresse="Straße B" umsatz="12" geschäftsbereich="Äpfel"  ID="2"/>
+    </Kooperation>
+    <Kooperation>
+        <Firma name="B" adresse="Straße B" umsatz="12" geschäftsbereich="Äpfel"  ID="2"/>
+        <Firma name="C" adresse="Straße C" umsatz="2" geschäftsbereich="Birnen"  ID="3"/>
+    </Kooperation>
+    <Kooperation>
+        <Firma name="A" adresse="Straße A" umsatz="5" geschäftsbereich="Tomaten"  ID="1"/>
+        <Firma name="C" adresse="Straße C" umsatz="2" geschäftsbereich="Birnen"  ID="3"/>
+    </Kooperation>
+    <Kooperation>
+        <Firma name="C" adresse="Straße C" umsatz="4" geschäftsbereich="Orangen" ID="4"/>
+        <Firma name="C" adresse="Straße C" umsatz="2" geschäftsbereich="Birnen"  ID="3"/>
+    </Kooperation>
+</Kooperationen>

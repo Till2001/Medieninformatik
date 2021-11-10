@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<stifte>
+    <bleistifte>
+        <bleistift marke="Andorra" stärke="4" anzahl="24534">
+            <bemerkung>Eine alte Marke aus St. Petersburg</bemerkung>
+        </bleistift>
+        <bleistift marke="Pandora" stärke="2" anzahl="2167"></bleistift>
+    </bleistifte>
+    <kugelschreiber>
+        <kugelschreiber_einheit stärke="4" anzahl="563" name="bic" />
+    </kugelschreiber>
+</stifte>

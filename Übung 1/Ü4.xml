@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<äpfel>
+    <apfel name="Pinky Lady" preis="2,99EUR/kg" geschmack="sehr süß">
+        <lieferanten>
+            <lieferant land="Frankreich"/>
+            <lieferant land="Portugal"/>
+        </lieferanten>
+    </apfel>
+    <apfel name="Granny Smith-Äpfel" preis="1,99EUR/kg" geschmack="sauer">
+        <lieferanten>
+            <lieferant land="Australien"/>
+        </lieferanten>
+    </apfel>
+</äpfel>

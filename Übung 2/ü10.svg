@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="500">
+	<g transform="translate(100 100)" id="CLOCK">
+        <circle r="80" stroke="black" stroke-width="3" fill="white" ID="outer"/>       
+        <line stroke-width="5" x1="0" y1="0" x2="-44" y2="-44" stroke="green" opacity=".5" ID="Hours ">
+		    <animateTransform attributeName="transform" type="rotate" repeatCount="indefinite" dur="86400s" by="360" />
+        </line>
+
+         <line stroke-width="5" x1="0" y1="0" x2="-40" y2="-40" stroke="red" opacity=".5" ID="Minutes">
+		    <animateTransform attributeName="transform" type="rotate" repeatCount="indefinite" dur="3600s" by="360" />
+        </line>
+
+        <line stroke-width="5" x1="0" y1="0" x2="-44" y2="-44" stroke-linecap="round" stroke="blue" opacity=".5" ID="Seconds">
+            <animateTransform attributeName="transform" type="rotate" repeatCount="indefinite" dur="60s" by="360" />
+        </line>
+        <circle r="7" />
+	</g>
+</svg>
+
