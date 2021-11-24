@@ -30,7 +30,7 @@ function draw() {
             }
         }
     }
-    
+
     for (let x = 0; x < img.width; x++) {
         for (let y = 0; y < img.height; y++) {
             const index = 4 * d * (y * d * img.width + x);

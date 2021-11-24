@@ -9,12 +9,12 @@ let matrix = [
 let matrixTotal = 16;
 
 function preload() {
-    //img = loadImage("car.jpg");
+    //img = loadImage("car.jpg")
     img = loadImage("house.jpg")
 }
 
 function setup() {
-    //createCanvas(1366, 768);
+    //createCanvas(1366, 768)
     createCanvas(768, 1366)
 }
 

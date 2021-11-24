@@ -41,7 +41,6 @@ function draw() {
             smoothedImg.pixels[centerIndex + 3] = 255
         }
     }
-    console.log(smoothedImg.pixels)
 
     smoothedImg.updatePixels()
     image(smoothedImg, 0, 0, smoothedImg.width, smoothedImg.height);
