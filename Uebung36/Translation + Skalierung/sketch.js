@@ -16,9 +16,8 @@ function draw() {
     vertex(100, 200);
     endShape();
 
-
     //scale(0.9, 0.75)
-    rotate(-15)
+    translate(50, 100)
     scale(0.9, 0.75)
 
     beginShape(); // definiere Polygon
